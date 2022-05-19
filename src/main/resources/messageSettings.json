@@ -1,0 +1,6 @@
+{
+  "login":"GmailLogin",
+  "password":"yourMailPassword",
+  "subject":"Test message",
+  "text":"Text in message"
+}
