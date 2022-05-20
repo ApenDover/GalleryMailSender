@@ -8,13 +8,14 @@ Content will be add at local hot folder offten. We need to check folder for a ne
 
 for example WEB:
 I think it will be work with springboot. Function, what it need:
-Admin settings:
+###### Admin settings: ######
 1. Create a company;
 2. Create event;
 3. Setup module for update mail settings;
 4. Setup content path;
 5. Hot Folder ckecking timer.
-User place:
+
+###### User place: ######
 All contents from this event, looks like instagram table. Show a fullsize image/play video with sending mail func.
 1. Video and image gallery for content;
 2. Button for sending mail and file path to the database.Sender
